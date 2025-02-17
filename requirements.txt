@@ -1,4 +1,16 @@
-numpy
-matplotlib
-ipywidgets
+# Kern-Komponenten für Jupyter-Notebooks
 jupyter
+ipykernel
+ipywidgets
+jupyterlab
+
+# Numerische und wissenschaftliche Bibliotheken
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# Zusätzliche Pakete (optional)
+requests
+plotly
